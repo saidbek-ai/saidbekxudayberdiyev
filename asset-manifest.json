@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saidbekxudayberdiyev/static/css/main.23b7288c.css",
+    "main.js": "/saidbekxudayberdiyev/static/js/main.dacfa4b4.js",
+    "static/media/project-cooking-best.png": "/saidbekxudayberdiyev/static/media/project-cooking-best.f2e746fb0127088b9777.png",
+    "static/media/project-lfl.png": "/saidbekxudayberdiyev/static/media/project-lfl.d0821b749d5b7741f9fb.png",
+    "static/media/project-fiber.png": "/saidbekxudayberdiyev/static/media/project-fiber.d15387d43ccb290dcf8c.png",
+    "static/media/project-lt.png": "/saidbekxudayberdiyev/static/media/project-lt.b32311095454db08a47a.png",
+    "static/media/devPhoto.jpg": "/saidbekxudayberdiyev/static/media/devPhoto.1028a5036a086cd7b919.jpg",
+    "static/media/project-login-register.png": "/saidbekxudayberdiyev/static/media/project-login-register.ea02c2465fad8645709d.png",
+    "static/media/resumeSXT.pdf": "/saidbekxudayberdiyev/static/media/resumeSXT.778b75e5375d1f61e724.pdf",
+    "static/media/default-image.svg": "/saidbekxudayberdiyev/static/media/default-image.04e21df97dd3d61d0e20e1243d56d371.svg",
+    "index.html": "/saidbekxudayberdiyev/index.html",
+    "main.23b7288c.css.map": "/saidbekxudayberdiyev/static/css/main.23b7288c.css.map",
+    "main.dacfa4b4.js.map": "/saidbekxudayberdiyev/static/js/main.dacfa4b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b7288c.css",
+    "static/js/main.dacfa4b4.js"
+  ]
+}
